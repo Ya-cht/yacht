@@ -1,6 +1,3 @@
-# yacht
-Yet Another Cliché Habit Tracker
-
 ## To-Do
 
 ### Basic Implementation
